@@ -1,3 +1,5 @@
+Fork of the popular newsdiffs program, to include tracking for nepali newspapers + papers that I have written parser scripts for.
+
 NewsDiffs
 ==========
 
